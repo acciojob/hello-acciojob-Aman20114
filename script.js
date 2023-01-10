@@ -1,1 +1,12 @@
 //your code here
+main.Accio#Job {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+}
+
+p.hello-accio-job {
+  color: white;
+  margin-left: 32px;
+  padding: 10px;
+}
